@@ -1,0 +1,8 @@
+{
+  "name": "Green Leaf Organic Store",
+  "description": "A highly polished, premium showcase website for Green Leaf Organic Store in Nashik. Features farm fresh organic fruits and vegetables, subscription boxes, customer reviews, dynamic shopping cart calculator, and interactive wellness and nutrition guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
